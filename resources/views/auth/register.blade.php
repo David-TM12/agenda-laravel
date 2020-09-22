@@ -1,5 +1,6 @@
 @extends('layouts.app')
 
+@section('topo_pagina','REGISTRO DE USUÁRIO')
 @section('content')
 <div class="container">
     <div class="row justify-content-center">
